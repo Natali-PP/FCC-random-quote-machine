@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa1a6758e1829e9d002a9d72c6e342db",
+    "revision": "34e2816dec609e60c7400ff1f9afb375",
     "url": "/FCC-random-quote-machine/index.html"
   },
   {
-    "revision": "0a7bb0462d9b862e6f42",
-    "url": "/FCC-random-quote-machine/static/css/main.c00ca90b.chunk.css"
+    "revision": "36c44868bffd11b08952",
+    "url": "/FCC-random-quote-machine/static/css/main.f6aa836b.chunk.css"
   },
   {
-    "revision": "5d6f0b25dc9188c84528",
-    "url": "/FCC-random-quote-machine/static/js/2.3ccf852e.chunk.js"
+    "revision": "91256f1db043c0636771",
+    "url": "/FCC-random-quote-machine/static/js/2.e6f67680.chunk.js"
   },
   {
-    "revision": "0a7bb0462d9b862e6f42",
-    "url": "/FCC-random-quote-machine/static/js/main.35fc85d9.chunk.js"
+    "revision": "36c44868bffd11b08952",
+    "url": "/FCC-random-quote-machine/static/js/main.16e62458.chunk.js"
   },
   {
     "revision": "60b56450b60454a53ee6",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b0c85541cb92d7d68839f4232904f306",
     "url": "/FCC-random-quote-machine/static/media/background-mobile.b0c85541.svg"
+  },
+  {
+    "revision": "4fac983a69793258efade33c707f32b4",
+    "url": "/FCC-random-quote-machine/static/media/right-quote-sign.4fac983a.svg"
   },
   {
     "revision": "87fdbe4779a09d178853992a03ccbdcc",
