@@ -11,6 +11,17 @@ p, button{
     background-color: #CFC7C7;
     box-shadow: 2px 2px 4px rgb(29, 22, 22) ;
 
+
+    &__author{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    &__quote-sign{
+        width: 3rem;
+        padding: 1rem;
+        
+    }
     &--twitter{
         display: flex;
         align-items: center;

@@ -1,5 +1,6 @@
 import React, {useCallback, useEffect, useState} from 'react'
 import twitterIcon from '../images/twitter-black-shape.svg'
+import rightQuote from '../images/right-quote-sign.svg'
 import '../styles/QuoteBox.scss'
 
 function QuoteBox(){
@@ -31,7 +32,11 @@ function QuoteBox(){
     return (
         <div className="quote-box">
             <p id="text" className="quote-box__text">{content}</p>
-            <p id="author" className="quote-box__author">- {autor}</p>
+            <div className="quote-box__author">
+                <p id="author" >- {autor}</p>
+                
+                <img className="quote-box__quote-sign" src={rightQuote} alt="right-quote-sign"/>
+            </div>
 
             <div className="quote-box--twitter">
                 <a id="tweet-quote" href="http://twitter.com/intent/tweet"><img src={twitterIcon} alt="twitter-icon" className="quote-box__tweet-quote"/></a>
